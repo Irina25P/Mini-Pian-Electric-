@@ -19,3 +19,4 @@ Features
 
 Future Improvements
 - Possible enhancements include adding scale switching and sheet music scanning.
+  
