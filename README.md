@@ -1,4 +1,4 @@
-# Overview
+# Description
 - This project is a mini electric piano developed using an Arduino Uno.
 - It allows users to play musical notes (DO4 to SI4), switch octaves, and activate semitones.
 - Additionally, the piano includes features for controlling volume and note duration using potentiometers, and it supports saving and replaying melodies on a MicroSD card.
