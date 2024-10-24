@@ -4,9 +4,9 @@ This project is a mini electric piano developed using an Arduino Uno. It allows 
 
 Setup
 
-Connect the components as per the wiring diagram.
-Upload the provided Arduino code.
-Insert the MicroSD card for saving and replaying melodies.
+- Connect the components as per the wiring diagram.
+- Upload the provided Arduino code.
+- Insert the MicroSD card for saving and replaying melodies.
 
 Features
 
